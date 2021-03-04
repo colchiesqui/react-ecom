@@ -1,1 +1,1 @@
-# Ecommerce in React
+# eCommerce in React
